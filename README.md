@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2> Hello welcome <<i>coders</i>></h2>
 
-<!--
-**delmo1501/delmo1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-delmoro-63b92b201/)](https://www.linkedin.com/in/bruno-delmoro-63b92b201/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmo123123@gmail.com)](mailto:delmo123123@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany 🏫.I love to do front end development and open to learning new technologies.
+
+## 🧐 About
+- 🏄‍ Extroverted guy looking for a healthy place, where i can grow up, improve my skills and be part of a beautiful and friendly group.
+- 😄 8 months of experience working as a Junior Full Stack Developer (I used that money to emigrate and arrive to Germany)
+- 🌱 I love to speak at public events and have been a speaker at many events. 
+- 👯 And Many More...
+
+
+## 💻 Projects
+* [Vet Appointments](https://github.com/delmo1501/react_appointments)
+* [Basic Expenses Controller](https://github.com/delmo1501/expensesControler)
+* [Page for a friend's company](https://innova-sa.com.ar/)
+* The idea is to use those projects to use React knowledge and improve. Im not concentrated on UI, just interspersing my Udemy course of React with the practice
+
+## ⚡ Technologies 
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
+- Backend development using **PostgreSQL,.NET CORE**
+- Worked in **PrimeroSystems** 8 months.
+- Improving my knowledge around React.js (Doing a  full MERN course)
+
+### 👣 Next Steps
+
+_Find my perfect place, where i can make friends, but mainly improve, listen, learn, set up and start my new life :_
+
+
+## 👋 Reach out to me 
+- 💬 Ask me about anything.
+- 💎 Fun fact: You lose automatically if you dont try, always a "yes" away to find my dreams work
