@@ -26,7 +26,7 @@ I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany
 - Worked in **PrimeroSystems** 8 months.
 - Improving my knowledge around React.js (Doing a  full MERN course)
 
-### 👣 Next Steps
+### 👣 Next Step
 
 _Find my perfect place, where i can make friends, but mainly improve, listen, learn, set up and start my new life :_
 
