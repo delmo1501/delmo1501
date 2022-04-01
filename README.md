@@ -15,8 +15,8 @@ I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany
 
 
 ## 💻 Projects
-* [Vet Appointments](https://github.com/delmo1501/react_appointments)
-* [Basic Expenses Controller](https://github.com/delmo1501/expensesControler)
+* [Vet Appointments](https://github.com/delmo1501/react_appointments) // https://spectacular-kelpie-c56a97.netlify.app/
+* [Basic Expenses Controller](https://github.com/delmo1501/expensesControler) // https://gentle-jelly-8ca4e5.netlify.app/  
 * [Page for a friend's company](https://innova-sa.com.ar/)
 * The idea is to use those projects to use React knowledge and improve. Im not concentrated on UI, just interspersing my Udemy course of React with the practice
 
