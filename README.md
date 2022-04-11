@@ -15,6 +15,7 @@ I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany
 
 
 ## 💻 Projects
+* [Real time crypto quote] // https://aesthetic-frangipane-8af90d.netlify.app/
 * [Vet Appointments](https://github.com/delmo1501/react_appointments) // https://spectacular-kelpie-c56a97.netlify.app/
 * [Basic Expenses Controller](https://github.com/delmo1501/expensesControler) // https://gentle-jelly-8ca4e5.netlify.app/  
 * [Page for a friend's company](https://innova-sa.com.ar/)
