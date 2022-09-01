@@ -23,7 +23,7 @@ I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany
 
 ## ⚡ Technologies 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
-- Backend development using **PostgreSQL,.NET CORE**
+- Backend development using **PostgreSQL,.NET CORE, MySQL and Nodejs**
 - Worked in **PrimeroSystems** 8 months.
 - Improving my knowledge around React.js (Doing a  full MERN course)
 
