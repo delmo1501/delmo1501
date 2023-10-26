@@ -34,6 +34,7 @@ I love to do front end development and open to learning new technologies.
 ### 👣 Next Step
 
 _Find my perfect place, where i can make friends, but mainly improve, listen, learn, set up and start my new life :_
+
 _Previous step succesfully acomplished, now, looking to grow profesionally and make up my career in Europe:_
 
 
