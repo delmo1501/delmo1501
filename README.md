@@ -5,11 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-delmoro-63b92b201/)](https://www.linkedin.com/in/bruno-delmoro-63b92b201/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:delmo123123@gmail.com)](mailto:delmo123123@gmail.com)
 
-I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany 🏫.I love to do front end development and open to learning new technologies.
+I' Bruno Delmoro. I'm originally from Argentina, and currently living in Germany 🏫.
+I love to do front end development and open to learning new technologies.
 
 ## 🧐 About
 - 🏄‍ Extroverted guy looking for a healthy place, where i can grow up, improve my skills and be part of a beautiful and friendly group.
-- 😄 8 months of experience working as a Junior Full Stack Developer (I used that money to emigrate and arrive to Germany)
+- 😄 2 years of experience working as a Full Stack Developer (I used the money from my first 8 months to emigrate and arrive to Germany)
 - 🌱 I love to speak at public events and have been a speaker at many events. 
 - 👯 And Many More...
 
