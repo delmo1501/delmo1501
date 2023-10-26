@@ -17,7 +17,7 @@ I love to do front end development and open to learning new technologies.
 
 ## 💻 Projects
 * On my current company i have worked in systems from economic management, passing throw recruitment system, until an aircraft programm
-* [My portfolio] (https://portfolio-nu-three-96.vercel.app/)
+* My portfolio => https://portfolio-nu-three-96.vercel.app/
 * [Real time crypto quote](https://aesthetic-frangipane-8af90d.netlify.app/)
 * [Vet Appointments](https://spectacular-kelpie-c56a97.netlify.app/)
 * [Basic Expenses Controller](https://gentle-jelly-8ca4e5.netlify.app/)
