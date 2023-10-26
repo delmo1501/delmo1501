@@ -16,21 +16,25 @@ I love to do front end development and open to learning new technologies.
 
 
 ## 💻 Projects
+* On my current company i have worked in systems from economic management, passing throw recruitment system, until an aircraft programm
+* [My portfolio] (https://portfolio-nu-three-96.vercel.app/)
 * [Real time crypto quote](https://aesthetic-frangipane-8af90d.netlify.app/)
 * [Vet Appointments](https://spectacular-kelpie-c56a97.netlify.app/)
 * [Basic Expenses Controller](https://gentle-jelly-8ca4e5.netlify.app/)
 * [Page for a friend's company](https://innova-sa.com.ar/)
-* The idea is to use those projects to use React knowledge and improve. Im not concentrated on UI, just interspersing my Udemy course of React with the practice
+  
 
 ## ⚡ Technologies 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
-- Backend development using **PostgreSQL,.NET CORE, MySQL and Nodejs**
+- Backend development using **PostgreSQL,.NET CORE, MySQL and Nodejs (Nest and Express)**
 - Worked in **PrimeroSystems** 8 months.
-- Improving my knowledge around React.js (Doing a  full MERN course)
+- Now in Akkodis, 1 year and 7 monthns, and counting...
+- Improving my knowledge around Next.js.
 
 ### 👣 Next Step
 
 _Find my perfect place, where i can make friends, but mainly improve, listen, learn, set up and start my new life :_
+_Previous step succesfully acomplished, now, looking to grow profesionally and make up my career in Europe:_
 
 
 ## 👋 Reach out to me 
