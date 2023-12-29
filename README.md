@@ -25,11 +25,11 @@ I love to do front end development and open to learning new technologies.
   
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, React.js**
-- Backend development using **PostgreSQL,.NET CORE, MySQL and Nodejs (Nest and Express)**
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, Reactjs, Nextjs, Astro**
+- Backend development + Database using **PostgreSQL,.NET CORE, MySQL and Nodejs (Nest and Express)**
 - Worked in **PrimeroSystems** 8 months.
-- Now in Akkodis, 1 year and 7 monthns, and counting...
-- Improving my knowledge around Next.js.
+- Now in Akkodis, 1 year and 9 months, and counting...
+- Improving my knowledge around Next.js & Astro.
 
 ### 👣 Next Step
 
