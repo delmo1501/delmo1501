@@ -10,7 +10,7 @@ I love to do front end development and open to learning new technologies.
 
 ## 🧐 About
 - 🏄‍ Extroverted guy looking for a healthy place, where i can grow up, improve my skills and be part of a beautiful and friendly group.
-- 😄 2 years of experience working as a Full Stack Developer (I used the money from my first 8 months to emigrate and arrive to Germany)
+- 😄 4 years of experience working as a Full Stack Developer (I used the money from my first 8 months to emigrate and arrive to Germany)
 - 🌱 I love to speak at public events and have been a speaker at many events. 
 - 👯 And Many More...
 
@@ -25,11 +25,12 @@ I love to do front end development and open to learning new technologies.
   
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, Reactjs, Nextjs, Astro**
-- Backend development + Database using **PostgreSQL,.NET CORE, MySQL and Nodejs (Nest and Express)**
+- Front-end development using **HTML, Javascript,CSS,Bootstrap, Reactjs, Nextjs, Astro, Django**
+- Backend development + Database using **PostgreSQL,.NET CORE, Python, MySQL and Nodejs (Nest and Express)**
 - Worked in **PrimeroSystems** 8 months.
-- Now in Akkodis, 1 year and 9 months, and counting...
-- Improving my knowledge around Next.js & Astro.
+- Then in Akkodis, 2 years
+- Now in The Adecco Group, counting...
+- Improving my knowledge around Django templates with Python
 
 ### 👣 Next Step
 
